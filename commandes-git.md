@@ -224,7 +224,7 @@ Il est possible de retirer un fichier qui avait été ajouté pour être « comm
 git reset HEAD -- nom_du_fichier_a_supprimer
 ```
 
-*Supprimer des fichiers du repo distant sans les supprimer du local*
+## Supprimer des fichiers du repo distant sans les supprimer en local
 
 ```shell
 git rm -r --cached File-or-FolderName
